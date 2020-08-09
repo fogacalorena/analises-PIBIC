@@ -1,1 +1,1 @@
-Neste repositório há o material para visualiz  de dados  e realização de cálu, código Arduino, entre outros arquivos necessário às analises do projeto Pibic-jr
+Neste repositório há o material para visualização  de dados e realização de cálculos, código Arduino, entre outros arquivos necessário às análises do projeto Pibic-jr.
